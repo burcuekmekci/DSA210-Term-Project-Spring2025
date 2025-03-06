@@ -20,3 +20,5 @@ This project will use publicly available datasets from Our World in Data, includ
   * The percentage of people who describe themselves as "very happy" or "fairly happy."
 * Burden of Disease from Mental Illness (1990-2021)
   * Disability-adjusted life years (DALYs) per 100,000 people due to mental illnesses, including depressive disorders, schizophrenia, and other conditions.
+
+These datasets were downloaded in CSV format and will be processed for analysis.
